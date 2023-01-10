@@ -8,4 +8,4 @@
 
 🐦 https://twitter.com/negrunch
 
-If you want to support my work consider to make a donation using [lightning network](https://ln.grunch.dev/)
+If you want to support my work consider to make a donation to grunch@getalby.com
