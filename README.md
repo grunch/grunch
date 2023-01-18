@@ -4,7 +4,7 @@
 - ⚡ Interested in Bitcoin, specially on Lightning Network
 - 🦀 I love software development and Rust
 
-![Github Stats for Francisco](https://github-readme-stats.vercel.app/api?username=grunch&show_icons=true&theme=ayu-mirage)
+![Github Stats for Francisco]([https://github-readme-stats.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app)/api?username=grunch&show_icons=true&theme=merko)
 
 🐦 https://twitter.com/negrunch
 
