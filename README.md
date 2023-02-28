@@ -8,4 +8,7 @@
 
 🐦 https://twitter.com/negrunch
 
-If you want to support my work consider to make a donation to negrunch@ln.tips
+If you want to support my work consider to make a donation to: https://getalby.com/p/grunch
+
+Nostr nip05: negrunch@grunch.dev
+ln address: negrunch@ln.tips
